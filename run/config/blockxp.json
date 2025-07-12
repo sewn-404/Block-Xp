@@ -1,0 +1,10 @@
+{
+  "xp_per_block": 1,
+  "xp_chance_wood_pickaxe": 20,
+  "xp_chance_stone_pickaxe": 30,
+  "xp_chance_iron_pickaxe": 40,
+  "xp_chance_gold_pickaxe": 60,
+  "xp_chance_diamond_pickaxe": 50,
+  "xp_chance_netherite_pickaxe": 55,
+  "xp_chance_default_pickaxe": 10
+}
