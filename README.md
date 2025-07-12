@@ -1,4 +1,5 @@
-Minecaft Mod soucre code ( My fist mode ever :D )
+Minecaft Mod soucre code ( My fist mode ever :D ) is for fabric and the Minecraft Version is 1.21.1
+
 XP Mining: Tiered XP Drops
 
 Enhance your mining experience with "XP Mining," a Fabric mod designed to add a strategic layer to gathering resources. This mod introduces a chance-based system for earning experience points (XP) directly from breaking blocks.
